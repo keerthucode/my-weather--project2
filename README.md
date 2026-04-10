@@ -41,16 +41,20 @@ style.css
 ---
 
  📸 Screenshot
+ 
 ![Weather App Screenshot]
 <img width="499" height="568" alt="{51154C1C-8766-4711-8B0D-5CF76D990579}" src="https://github.com/user-attachments/assets/76f05aaa-6aa6-4aab-a18c-568dfd400de0" />
 
 ---
 
 👤 Author
-Your Name  
+
+NAIR KEERTHANA
+
 GitHub: https://github.com/keerthucode 
 
 ---
 
 📄 License
+
 This project is open-source and free to use.
