@@ -1,16 +1,16 @@
-# 🌦️ Weather Web App
+ 🌦️ Weather Web App
 
-## 📌 Description
+ 📌 Description
 A simple and responsive weather web application that provides real-time weather information for any city using an API. It displays temperature, weather conditions, humidity, and more using HTML, CSS, and JavaScript.
 
 ---
 
-## 🌐 Live Demo
-https://your-live-link.com
+🌐 Live Demo
+ https://keerthucode.github.io/my-weather--project2/
 
 ---
 
-## 🚀 Features
+ 🚀 Features
 - 🌍 Search weather by city name  
 - 🌡️ Displays temperature and conditions  
 - 💧 Shows humidity and wind speed  
@@ -18,8 +18,7 @@ https://your-live-link.com
 - 📱 Responsive design (mobile & desktop)  
 
 ---
-
-## 🛠️ Technologies Used
+ 🛠️ Technologies Used
 - HTML5  
 - CSS3  
 - JavaScript (Vanilla JS)  
@@ -27,31 +26,30 @@ https://your-live-link.com
 
 ---
 
-## 📂 Project Structure
+ 📂 Project Structure
 index.html
 script.js
 style.css
 ---
 
 ---
-
-## ▶️ How to Use
+▶️ How to Use
 1. Open the live demo or `index.html`  
 2. Enter a city name  
 3. View current weather details instantly  
 
 ---
 
-## 📸 Screenshot
+ 📸 Screenshot
 ![Weather App Screenshot]
 
 ---
 
-## 👤 Author
+👤 Author
 Your Name  
 GitHub: https://github.com/keerthucode 
 
 ---
 
-## 📄 License
+📄 License
 This project is open-source and free to use.
