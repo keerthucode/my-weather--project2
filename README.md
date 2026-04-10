@@ -12,7 +12,7 @@ A simple and responsive weather web application that provides real-time weather 
 
  🚀 Features
 - 🌍 Search weather by city name  
-- 🌡️ Displays temperature and conditions  
+- 🌡️ Dispay conditions 
 - 💧 Shows humidity and wind speed  
 - ⚡ Real-time API data fetching  
 - 📱 Responsive design (mobile & desktop)  
